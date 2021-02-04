@@ -1,5 +1,5 @@
 package com.epam.collections
 
-class TestArrayListTest1 {
+class Task3Test1 {
 
 }
